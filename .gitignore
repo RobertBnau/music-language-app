@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Node
+node_modules/
+.next/
+out/
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+!.env.local.example
+# Local databases and artifacts
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
