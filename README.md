@@ -1,3 +1,5 @@
+IN PROGRESS -- WORKING WITH CODEX
+
 # Music Language App — Agent Starter Kit
 
 This is a product specification and agent-guidance starter, **not yet a running application**. Give the coding agent `tasks/001-foundation.md` and let it implement the first slice.
